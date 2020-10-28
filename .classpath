@@ -6,6 +6,6 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/Users/dfdeblasio/git/Week-11/precompiled"/>
+	<classpathentry kind="lib" path="precompiled"/>
 	<classpathentry kind="output" path="src"/>
 </classpath>
