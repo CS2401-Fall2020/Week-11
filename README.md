@@ -12,7 +12,7 @@ There are 3 intentional mistakes within the code that you should attempt to iden
 Extra credit will be provided for anyone who identifies implementation errors that were unintentional. 
 
 ### `BinarySearchTreeMistakes`
-* `public boolean insert(String)` -- takes as input a string to be inserted, and returns a boolean indicating the success of the opertation. A false value indicates that the value cannot be inserted. 
+* `public boolean insert(String)` -- takes as input a string to be inserted, and returns a boolean indicating the success of the operation. A false value indicates that the value cannot be inserted. 
 * `public boolean isValid()` -- determines if the tree is a valid binary search tree. 
 * `public boolean remove(String)` -- removed the given string node from the tree. the boolean indicates if the node was removed successully. 
 * `public boolean search(String)` -- finds the given string in the tree, returns `true` if it is found, and `false` otherwise. 
